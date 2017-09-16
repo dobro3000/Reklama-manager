@@ -1,0 +1,33 @@
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.BuisnessLayer.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.BuisnessLayer.pdb
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\obj\Debug\VRA.BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\obj\Debug\VRA.BuisnessLayer.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.BuisnessLayer\obj\Debug\VRA.BuisnessLayer.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.BuisnessLayer.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.BuisnessLayer.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\obj\Debug\VRA.BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\obj\Debug\VRA.BuisnessLayer.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.BuisnessLayer\obj\Debug\VRA.BuisnessLayer.pdb
+D:\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.BuisnessLayer.dll
+D:\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.BuisnessLayer.pdb
+D:\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\EPPlus.dll
+D:\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.DataAccess.dll
+D:\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.Dto.dll
+D:\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.DataAccess.pdb
+D:\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\VRA.Dto.pdb
+D:\Manager_Reklama\VRA.BuisnessLayer\bin\Debug\EPPlus.xml
+D:\Manager_Reklama\VRA.BuisnessLayer\obj\Debug\VRA.BuisnessLayer.csprojResolveAssemblyReference.cache
+D:\Manager_Reklama\VRA.BuisnessLayer\obj\Debug\VRA.BuisnessLayer.dll
+D:\Manager_Reklama\VRA.BuisnessLayer\obj\Debug\VRA.BuisnessLayer.pdb
