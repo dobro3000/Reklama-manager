@@ -1,0 +1,5 @@
+c:\users\dobro\documents\visual studio 2017\Projects\Manager_Reklama\Manager_Reklama\bin\Debug\Manager_Reklama.dll
+c:\users\dobro\documents\visual studio 2017\Projects\Manager_Reklama\Manager_Reklama\bin\Debug\Manager_Reklama.pdb
+c:\users\dobro\documents\visual studio 2017\Projects\Manager_Reklama\Manager_Reklama\obj\Debug\Manager_Reklama.csprojResolveAssemblyReference.cache
+c:\users\dobro\documents\visual studio 2017\Projects\Manager_Reklama\Manager_Reklama\obj\Debug\Manager_Reklama.dll
+c:\users\dobro\documents\visual studio 2017\Projects\Manager_Reklama\Manager_Reklama\obj\Debug\Manager_Reklama.pdb

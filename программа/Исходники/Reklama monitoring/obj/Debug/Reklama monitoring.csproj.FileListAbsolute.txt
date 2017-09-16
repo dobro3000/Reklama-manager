@@ -1,0 +1,162 @@
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.exe.config
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.exe
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.pdb
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.BuisnessLayer.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.BuisnessLayer.pdb
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddCarrier.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddEnterprise.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddManagerData.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddOrder.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddTypeReklama.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddWageManager.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\MainWindow.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\SearchWindow.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\SettingsWindow.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\App.g.cs
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring_MarkupCompile.cache
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring_MarkupCompile.lref
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddCarrier.baml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddEnterprise.baml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddManagerData.baml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddOrder.baml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddTypeReklama.baml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\AddWageManager.baml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\MainWindow.baml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\SearchWindow.baml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\SettingsWindow.baml
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.g.resources
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama_monitoring.AboutThisProgram.resources
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama_monitoring.Properties.Resources.resources
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.csproj.GenerateResource.Cache
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.exe
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.pdb
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.exe.config
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.exe
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.pdb
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.BuisnessLayer.dll
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.DataAccess.dll
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.Dto.dll
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\EPPlus.dll
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.BuisnessLayer.pdb
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.DataAccess.pdb
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.Dto.pdb
+F:\Практика\Manager_Reklama\Reklama monitoring\bin\Debug\EPPlus.xml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.csprojResolveAssemblyReference.cache
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AccountConnect.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddCarrier.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddEnterprise.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddManagerData.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddOrder.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddTypeReklama.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddWageManager.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\MainWindow.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\SearchWindow.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\SettingsWindow.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\App.g.cs
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring_MarkupCompile.cache
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring_MarkupCompile.lref
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AccountConnect.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddCarrier.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddEnterprise.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddManagerData.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddOrder.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddTypeReklama.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\AddWageManager.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\MainWindow.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\SearchWindow.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\SettingsWindow.baml
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.g.resources
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama_monitoring.AboutThisProgram.resources
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama_monitoring.Properties.Resources.resources
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.csproj.GenerateResource.Cache
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.exe
+F:\Практика\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.exe.config
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.exe
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.BuisnessLayer.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.BuisnessLayer.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AccountConnect.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddCarrier.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddEnterprise.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddManagerData.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddOrder.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddTypeReklama.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddWageManager.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\MainWindow.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\SearchWindow.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\SettingsWindow.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\App.g.cs
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring_MarkupCompile.cache
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring_MarkupCompile.lref
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AccountConnect.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddCarrier.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddEnterprise.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddManagerData.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddOrder.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddTypeReklama.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\AddWageManager.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\MainWindow.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\SearchWindow.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\SettingsWindow.baml
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.g.resources
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama_monitoring.AboutThisProgram.resources
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama_monitoring.Properties.Resources.resources
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.csproj.GenerateResource.Cache
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.exe
+C:\Users\Dobro\Desktop\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.pdb
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.exe.config
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.exe
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\Reklama monitoring.pdb
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.BuisnessLayer.dll
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.DataAccess.dll
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.Dto.dll
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\EPPlus.dll
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.BuisnessLayer.pdb
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.DataAccess.pdb
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\VRA.Dto.pdb
+D:\Manager_Reklama\Reklama monitoring\bin\Debug\EPPlus.xml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.csprojResolveAssemblyReference.cache
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AccountConnect.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddCarrier.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddEnterprise.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddManagerData.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddOrder.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddTypeReklama.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddWageManager.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\MainWindow.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\SearchWindow.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\SettingsWindow.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\App.g.cs
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring_MarkupCompile.cache
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring_MarkupCompile.lref
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AccountConnect.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddCarrier.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddEnterprise.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddManagerData.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddOrder.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddTypeReklama.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\AddWageManager.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\MainWindow.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\SearchWindow.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\SettingsWindow.baml
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.g.resources
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama_monitoring.AboutThisProgram.resources
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama_monitoring.Properties.Resources.resources
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.csproj.GenerateResource.Cache
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.exe
+D:\Manager_Reklama\Reklama monitoring\obj\Debug\Reklama monitoring.pdb

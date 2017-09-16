@@ -1,0 +1,14 @@
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.Dto\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.Dto\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.Dto\obj\Debug\VRA.Dto.dll
+C:\Users\Dobro\Documents\Visual Studio 2017\Projects\Manager_Reklama\VRA.Dto\obj\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.Dto\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.Dto\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.Dto\obj\Debug\VRA.Dto.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.Dto\obj\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\Manager_Reklama\VRA.Dto\obj\Debug\VRA.Dto.pdb
+D:\Manager_Reklama\VRA.Dto\bin\Debug\VRA.Dto.dll
+D:\Manager_Reklama\VRA.Dto\bin\Debug\VRA.Dto.pdb
+D:\Manager_Reklama\VRA.Dto\obj\Debug\VRA.Dto.csprojResolveAssemblyReference.cache
+D:\Manager_Reklama\VRA.Dto\obj\Debug\VRA.Dto.dll
+D:\Manager_Reklama\VRA.Dto\obj\Debug\VRA.Dto.pdb
